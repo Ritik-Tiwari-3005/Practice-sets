@@ -1,0 +1,37 @@
+#videos{
+    background-color: cornflowerblue;
+    border: 2px solid black;
+    margin: -8px;
+    padding: -10px; 
+    
+}
+.A{
+    background-color: blueviolet;
+    height: 300px;
+    width: 170px;
+
+}
+#songs{
+    background-color: cadetblue;
+    border: 2px solid black;
+    margin: -8px;
+    padding: 0px;
+}
+.search{
+    background-color: black;
+    border: 2px solid rgb(0, 0, 0);
+    margin: -8px;
+    
+}
+.playlist{
+    background-color: rgb(0, 0, 0);
+    -webkit-text-fill-color: white;
+    margin: -8px;
+    padding: 2px;
+}
+.container{
+    background-color: black;
+    -webkit-text-fill-color: white;
+    margin: -10px;
+    padding: 5px;
+}
